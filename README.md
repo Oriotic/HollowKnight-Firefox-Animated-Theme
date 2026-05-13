@@ -1,0 +1,1 @@
+# HollowKnight-Firefox-Animated-Theme
