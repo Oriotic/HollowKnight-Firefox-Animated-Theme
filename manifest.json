@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "name": "Hollow Knight Animated",
+  "version": "1.0",
+
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/hollowknight.png"
+      ]
+    },
+
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+
+    "colors": {
+      "frame": "rgb(15, 20, 30)",
+      "toolbar": "rgba(15, 20, 30, 0.1)",
+
+      "toolbar_text": "white",
+      "tab_background_text": "white",
+      
+      "tab_line": "rgba(0, 0, 0, 0)",
+      "tab_loading": "rgba(0, 0, 0, 0)",
+      
+      "toolbar_top_separator": "rgba(255, 255, 255, 0)",
+      "toolbar_bottom_separator": "rgba(34, 25, 77, 0)",
+
+      "toolbar_field": "rgba(0,0,0,0.3)",
+      "toolbar_field_text": "white",
+
+      "popup": "rgb(20,20,30)",
+      "popup_text": "white",
+
+      "sidebar": "rgb(20,20,30)",
+      "sidebar_text": "white"
+    }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "hollow.knight@animated"
+    }
+  }
+}
