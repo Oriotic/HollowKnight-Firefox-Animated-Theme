@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Hollow Knight Animated",
-  "version": "1.0",
+  "version": "1.2",
 
   "theme": {
     "images": {
@@ -21,8 +21,8 @@
     },
 
     "colors": {
-      "frame": "rgb(15, 20, 30)",
-      "toolbar": "rgba(15, 20, 30, 0.1)",
+      "frame": "rgb(56, 120, 129)",
+      "toolbar": "rgba(30, 80, 95, 0.1)",
 
       "toolbar_text": "white",
       "tab_background_text": "white",
@@ -33,13 +33,13 @@
       "toolbar_top_separator": "rgba(255, 255, 255, 0)",
       "toolbar_bottom_separator": "rgba(34, 25, 77, 0)",
 
-      "toolbar_field": "rgba(0,0,0,0.3)",
+      "toolbar_field": "rgba(20, 60, 80, 0.5)",
       "toolbar_field_text": "white",
 
-      "popup": "rgb(20,20,30)",
+      "popup": "rgb(20, 60, 80)",
       "popup_text": "white",
 
-      "sidebar": "rgb(20,20,30)",
+      "sidebar": "rgb(20, 60, 80)",
       "sidebar_text": "white"
     }
   },
